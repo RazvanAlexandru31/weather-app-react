@@ -14,7 +14,7 @@ function App() {
   const [loading, setLoading] = useState(false);
 
   const getData = async () => {
-    const api = `http://api.openweathermap.org/geo/1.0/direct?q=${value}&limit=4&appid=${process.env.REACT_APP_KEY}`;
+    const api = `https://api.openweathermap.org/geo/1.0/direct?q=${value}&limit=4&appid=${process.env.REACT_APP_KEY}`;
 
     try {
       setLoading(true);
