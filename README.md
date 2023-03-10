@@ -1,3 +1,11 @@
+# Weather App
+
+A weather app that provides current weather forecasts.Utilizes OpenWeather API to retrieve weather data for cities and display the relevant information.
+
+![screenshot](./public/sc3.png)
+
+# [DEMO](https://react-weather-app31.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
